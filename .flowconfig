@@ -1,0 +1,8 @@
+[ignore]
+node_modules/**/*.js
+
+[include]
+
+[libs]
+
+[options]
